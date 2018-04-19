@@ -13,9 +13,7 @@
 ----------------------------
 
 Bechelor's & Master's Course
-
 Dept. of Information Technology
-
 Handong Global University
 
 <right>21731006@handong.edu +82-10-9551-5598</right>
