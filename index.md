@@ -38,6 +38,9 @@ Best paper award, 2017
 
 - Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
+창업경진대회 우승(Ada)(2015. 10) 
+
+– 영상처리를 이용한 빠른 옷 검색 서비스, 이상준, 송지웅
 
 ### Patents
 
@@ -71,4 +74,16 @@ TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D
 
 ### Activities
 
-certification of 3D animiation & Visual Effect Course, SF Film School(school of VFX) 2014. 03.01 ~ 2014. 12. 31 
+Research assistant of CGVLAB(Computer Vision and Graphics Laboratory) (2015. 09~ Present)
+
+instructor, CG modeling and texturing, Gift Sharing, HanDong Education Development Institute(2016. 01, 2017. 01)
+
+president of Handong VR group for generating own college virtual world(2015. 03~ 2016. 12)
+
+teacher for dance(poppin), artschool in handong global university(2015. 09 ~ 2016. 12)
+
+talent competition 3rd prize(2015. 05, dance) and 2nd prize(2016.05, dance as leader) on handong festival 
+
+certification of 3D animiation & Visual Effect Course, SF Film School(school of VFX) (2014. 03 ~ 2014. 12)
+
+learned product design by minor(2013.03~ 2014.02)
