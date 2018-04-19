@@ -72,13 +72,9 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 ### Skills
 
 | | |
-
-|:--------:|:------------|
-
+|:------------:|:------------|
 |Language | C++, C, MATLAB, linux|
-
 |LIBRARY | OpenCV, OpenGL, VLfeat|
-
 |TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
 
 ### Activities
