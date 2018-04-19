@@ -7,14 +7,14 @@
 
 <center>with my creative heart and full enthusiasm.</center>
 
-## Sang Jun Lee
+====================
 
-|Bechelor's & Master's Course    | 21731006@handong.edu +82-10-9551-5598|
-{: .text-left }| {: .text-right }
-|Dept. of Information Technology |    317(b) OH, 558 Handong-ro, Buk-gu,|
-{: .text-left }| {: .text-right }
-|Handong Global University       | Pohang, Kyongbuk, South Korea (37554)|
-{: .text-left }| {: .text-right }
+|Bechelor's & Master's Course  {: .text-left }  | 21731006@handong.edu +82-10-9551-5598 {: .text-right }|
+
+|Dept. of Information Technology {: .text-left } |    317(b) OH, 558 Handong-ro, Buk-gu, {: .text-right }|
+
+|Handong Global University     {: .text-left }  | Pohang, Kyongbuk, South Korea (37554) {: .text-right }|
+
 ### Research interests
 Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Machine Learning, HCI, VR, AR
 
