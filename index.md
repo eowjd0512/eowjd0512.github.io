@@ -1,4 +1,6 @@
-## Sang Jun Lee                            .![Image](SangJunLee.jpg){: width="100px" height="100px"}
+## Sang Jun Lee                            
+
+![Image](SangJunLee.jpg){: width="100px" height="100px"}
 
 
 <center>Why not change the world?</center>
@@ -8,6 +10,9 @@
 <center>with my creative heart and full enthusiasm.</center>
 
 ----------------------------
+| | |
+
+|:-----------|------------:|
 
 |Bechelor's & Master's Course        | 21731006@handong.edu +82-10-9551-5598 |
 
@@ -20,9 +25,9 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Education and Employments
 
-Jan 2017 - Present     |  B.S & M.S in Dept. of Information Technology, HGU 
+1. Jan 2017 - Present       B.S & M.S in Dept. of Information Technology, HGU 
 
-Mar 2012 - Aug 2017    |  B.S in Computer Science and Engineering, HGU
+2.  Mar 2012 - Aug 2017      B.S in Computer Science and Engineering, HGU
 
 ### Publications
 
@@ -68,12 +73,14 @@ Mar 2012 - Aug 2017    |  B.S in Computer Science and Engineering, HGU
 1. animator 표면개질용 125J-HZ급 레이저 개발 (2차), 2015. 06. 01 ~ 2016. 05. 31
 
 ### Skills
+| | |
 
-Language | C++, C, MATLAB, 
+|:--------:|:------------|
+|Language | C++, C, MATLAB, linux|
 
-LIBRARY | OpenCV, OpenGL, VLfeat, 
+|LIBRARY | OpenCV, OpenGL, VLfeat|
 
-TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D
+|TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
 
 ### Activities
 
