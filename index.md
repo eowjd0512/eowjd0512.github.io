@@ -1,6 +1,6 @@
 ## Sang Jun Lee                            
 
-![Image](SangJunLee.jpg){: width="100px" height="100px"}
+![Image](SangJunLee.jpg){: width="150px" height="150px"}
 
 
 <center>Why not change the world?</center>
@@ -11,13 +11,9 @@
 
 ----------------------------
 | | |
-
 |:-----------|------------:|
-
 |Bechelor's & Master's Course        | 21731006@handong.edu +82-10-9551-5598 |
-
 |Dept. of Information Technology     |    317(b) OH, 558 Handong-ro, Buk-gu, |
-
 |Handong Global University           | Pohang, Kyongbuk, South Korea (37554) |
 
 ### Research interests
@@ -25,9 +21,9 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Education and Employments
 
-1. Jan 2017 - Present       B.S & M.S in Dept. of Information Technology, HGU 
+*  Jan 2017 - Present       B.S & M.S in Dept. of Information Technology, HGU 
 
-2.  Mar 2012 - Aug 2017      B.S in Computer Science and Engineering, HGU
+*  Mar 2012 - Aug 2017      B.S in Computer Science and Engineering, HGU
 
 ### Publications
 
