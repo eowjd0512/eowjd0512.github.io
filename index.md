@@ -1,5 +1,7 @@
-## Sang Jun Lee ![Alt text](D:\2018-1\SangJunLee.jpg)
-{: .no_toc}
+## Sang Jun Lee
+
+![Image](D:\2018-1\SangJunLee.jpg){: width="100px" height="100px"}
+
 
 <center>Why not change the world?</center>
 
