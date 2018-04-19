@@ -17,8 +17,26 @@ Mar 2012 - Aug 2017    |  B.S in Computer Science and Engineering, HGU
 
 ### Publications
 
+Sang-Jun Lee, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
+ 
+Sang Jun Lee, Soo Bin Kim and Sung Soo Hwang, 2017, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235.
+
+Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
+
+Subin Kim, Dero Bae, SangJun Lee, Dabin Sin and Seoungsu hwang, 2017, "A Study on Providing Resource-efficient Information Interface Utilizing Augmented Reality," 한국HCI학회 학술대회, , pp. 657~660.
+
+Davin Baik, Seongjin Lee, Sangyeon Choi, SangJun Lee and Sungsoo Hwang, 2018, "Interactive Mobile Augmented Reality System Using Muscle Sensor," 한국HCI학회 학술대회, , pp. 753~756.
+
 ### Awards and Scholarships
 
+Best paper award, 2018
+
+Sang-Jun Lee, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
+
+
+Best paper award, 2017
+
+- Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
 
 ### Patents
