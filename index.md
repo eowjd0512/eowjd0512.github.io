@@ -74,6 +74,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 | | |
 
 |:--------:|:------------|
+
 |Language | C++, C, MATLAB, linux|
 
 |LIBRARY | OpenCV, OpenGL, VLfeat|
