@@ -1,6 +1,4 @@
-## Sang Jun Lee
-
-![Image](D:\2018-1\SangJunLee.jpg){: width="100px" height="100px"}
+## Sang Jun Lee ![Image](.\SangJunLee.jpg){: width="100px" height="100px"}
 
 
 <center>Why not change the world?</center>
