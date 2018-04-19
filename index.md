@@ -31,7 +31,7 @@ Davin Baik, Seongjin Lee, Sangyeon Choi, SangJun Lee and Sungsoo Hwang, 2018, "I
 
 Best paper award, 2018
 
-Sang-Jun Lee, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
+- Sang-Jun Lee, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
 
 
 Best paper award, 2017
