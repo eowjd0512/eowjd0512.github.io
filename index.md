@@ -12,22 +12,16 @@
 ----------------------------
 
 Bechelor's & Master's Course
-{: .text-left }
 
 Dept. of Information Technology
-{: .text-left }
 
 Handong Global University
-{: .text-left }
 
-21731006@handong.edu +82-10-9551-5598
-{: .text-right }
+<right>21731006@handong.edu +82-10-9551-5598</right>
 
-317(b) OH, 558 Handong-ro, Buk-gu,
-{: .text-right }
+<right>317(b) OH, 558 Handong-ro, Buk-gu,</right>
 
-Pohang, Kyongbuk, South Korea (37554)
-{: .text-right }
+<right>Pohang, Kyongbuk, South Korea (37554)</right>
 
 ### Research interests
 Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Machine Learning, HCI, VR, AR
