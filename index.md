@@ -1,12 +1,32 @@
-## Welcome to GitHub Pages
+## Sang Jun Lee
 
-You can use the [editor on GitHub](https://github.com/eowjd0512/eowjd0512.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bechelor's & Master's course                                       21731006@handong.edu | +82-10-9551-5598
+Dept. of Information Technology                                         317(b) OH, 558 Handong-ro, Buk-gu,
+Handong Global University                                            Pohang, Kyongbuk, South Korea (37554)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Education and Employments
+
+
+### Publications
+
+### Technical Presentations
+
+### Funding
+
+### Awards and Scholarships
+
+### Patents
+
+### Experiences
+
+### Activities
+
+
 
 ```markdown
 Syntax highlighted code block
