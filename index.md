@@ -38,9 +38,9 @@ Mar 2012 - Aug 2017    |  B.S in Computer Science and Engineering, HGU
 
 - Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
-1. 창업경진대회 우승(Ada)(2015. 10) 
+1. Start-up competition ? award(2015. 10) 
 
-- 영상처리를 이용한 빠른 옷 검색 서비스, 이상준, 송지웅
+- 영상처리를 이용한 빠른 옷 검색 서비스, team Ada, 송지웅, 이상준
 
 ### Patents
 
