@@ -7,7 +7,7 @@ Dept. of Information Technology |    317(b) OH, 558 Handong-ro, Buk-gu,
 Handong Global University       | Pohang, Kyongbuk, South Korea (37554)
 
 ### Research interests
-Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Machine Learning
+Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Machine Learning, HCI, VR, AR
 
 ### Education and Employments
 
