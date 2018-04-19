@@ -1,5 +1,6 @@
 ## Sang Jun Lee                           
 {: style="text-align: center"}
+
 {: refdef: style="text-align: center;"}
 ![Image](SangJunLee.jpg){: width="150px" height="150px"}
 {: refdef}
