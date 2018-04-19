@@ -1,7 +1,8 @@
-## Sang Jun Lee                            
+## <centor>Sang Jun Lee</centor>                            
 
+{: refdef: style="text-align: center;"}
 ![Image](SangJunLee.jpg){: width="150px" height="150px"}
-
+{: refdef}
 
 <center>Why not change the world?</center>
 
