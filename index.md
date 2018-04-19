@@ -1,13 +1,14 @@
 ## Sang Jun Lee
 
-Bechelor's & Master's course                                       21731006@handong.edu | +82-10-9551-5598
-Dept. of Information Technology                                         317(b) OH, 558 Handong-ro, Buk-gu,
-Handong Global University                                            Pohang, Kyongbuk, South Korea (37554)
+Bechelor's & Master's Course                                       
+Dept. of Information Technology                                         
+Handong Global University                                            
 
+21731006@handong.edu | +82-10-9551-5598
+317(b) OH, 558 Handong-ro, Buk-gu, Pohang, Kyongbuk, South Korea (37554)
 
 ### Research interests
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Machine Learning
 
 ### Education and Employments
 
