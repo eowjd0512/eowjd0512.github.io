@@ -1,3 +1,5 @@
+## Sang Jun Lee
+
 <center>Why not change the world?</center>
 
 <center>I sincerely want to change the world using my techniques and technologies</center>
@@ -5,9 +7,13 @@
 <center>with my creative heart and full enthusiasm.</center>
 
 ## Sang Jun Lee
+
 |:--------|--------:|
+
 Bechelor's & Master's Course    | 21731006@handong.edu +82-10-9551-5598
+
 Dept. of Information Technology |    317(b) OH, 558 Handong-ro, Buk-gu,
+
 Handong Global University       | Pohang, Kyongbuk, South Korea (37554)
 
 ### Research interests
