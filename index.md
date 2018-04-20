@@ -60,9 +60,9 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 큐브 증강현실 (pending)
 
-### Experiences
+### Research Experiences
 
-6. Research assistant, Vadas 2018. 01. 01 ~ 2018. 09.
+6. Research assistant, Vadas 2018. 01. ~ 2018. 09.
 
 5. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구(2차) 2016. 11. ~ 2018. 09.
 
@@ -73,6 +73,17 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 2. Research assistant, 자동 유닛-테스트 생성기법을 활용한 소프트웨어 성능결함 검출 2015. 11. ~ 2016. 11.
 
 1. animator 표면개질용 125J-HZ급 레이저 개발 (2차), 2015. 06. ~ 2017. 06.
+
+### Teaching Experiences
+
+1. Teaching assistant, AR Camp, CS, HGU, 2017. 07. ~ 2017. 07.
+
+1. Teaching assistant, OpenCV Camp, CS, HGU, 2017. 01. ~ 2017. 01.
+
+1. Teaching assistant, Multimedia Image Processing, CS, HGU, 2017. 09. ~ 2017. 12.
+
+1. Teaching assistant, Multimedia Image Processing, CS, HGU, 2016. 09. ~ 2016. 12.
+
 
 ### Skills
 
