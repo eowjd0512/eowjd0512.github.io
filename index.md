@@ -37,24 +37,24 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Publications
 
-5. Sang-Jun Lee, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
+5. **Sang Jun Lee**, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
  
-4. Sang Jun Lee, Soo Bin Kim and Sung Soo Hwang, 2017, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235.
+4. **Sang Jun Lee**, Soo Bin Kim and Sung Soo Hwang, 2017, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235.
 
-3. Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
+3. **Sang Jun Lee**, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
-2. Subin Kim, Dero Bae, SangJun Lee, Dabin Sin and Seoungsu hwang, 2017, "A Study on Providing Resource-efficient Information Interface Utilizing Augmented Reality," 한국HCI학회 학술대회, , pp. 657~660.
+2. Subin Kim, Dero Bae, **SangJun Lee**, Dabin Sin and Seoungsu hwang, 2017, "A Study on Providing Resource-efficient Information Interface Utilizing Augmented Reality," 한국HCI학회 학술대회, , pp. 657~660.
 
-1. Davin Baik, Seongjin Lee, Sangyeon Choi, SangJun Lee and Sungsoo Hwang, 2018, "Interactive Mobile Augmented Reality System Using Muscle Sensor," 한국HCI학회 학술대회, , pp. 753~756.
+1. Davin Baik, Seongjin Lee, Sangyeon Choi, **SangJun Lee** and Sungsoo Hwang, 2018, "Interactive Mobile Augmented Reality System Using Muscle Sensor," 한국HCI학회 학술대회, , pp. 753~756.
 
 ### Awards and Scholarships
 
-3. Best paper award, 2018 - Sang-Jun Lee, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
+3. **Best paper award**, 2018 - **Sang-Jun Lee**, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
 
 
-2. Best paper award, 2017 - Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
+2. **Best paper award**, 2017 - **Sang-Jun Lee**, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
-1. Start-up competition 1st prize(2015. 10) - 영상처리를 이용한 빠른 옷 검색 서비스, 송지웅, 이상준
+1. Start-up competition **1st prize**(2015. 10) - 영상처리를 이용한 빠른 옷 검색 서비스, **이상준**, 송지웅
 
 ### Patents
 
