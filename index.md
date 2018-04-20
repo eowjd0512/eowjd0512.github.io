@@ -13,7 +13,7 @@
 
 ----------------------------
 
-Bechelor's & Master's Course
+Bechelor's & Master's joint Course
 {: style="text-align: left"}
 Dept. of Information Technology
 {: style="text-align: left"}
@@ -54,7 +54,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 2. Best paper award, 2017 - Sang-Jun Lee, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
-1. Start-up competition ? award(2015. 10) - 영상처리를 이용한 빠른 옷 검색 서비스, team Ada, 송지웅, 이상준
+1. Start-up competition 1st prize(2015. 10) - 영상처리를 이용한 빠른 옷 검색 서비스, team Ada, 송지웅, 이상준
 
 ### Patents
 
@@ -62,28 +62,25 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Experiences
 
-8. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구(2차) 2017. 11. 01 ~ 2018. 08. 31
+6. Research assistant, Vadas 2018. 01. 01 ~ 2018. 09.
 
-7. Research assistant, 스마트 웨어러블 디바이스 및 감성 서비스 어플리케이션 개발(2차) 2017. 01. 01 ~ 2018. 01. 31
+5. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구(2차) 2016. 11. ~ 2018. 09.
 
-6. Research assistant, 스마트 웨어러블 디바이스 및 감성 서비스 어플리케이션 개발 2015. 12. 31 ~ 2018. 01. 31
+4. Research assistant, 스마트 웨어러블 디바이스 및 감성 서비스 어플리케이션 개발 2016. 01. ~ 2018. 02.
 
-5. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구 2016. 11. 01 ~ 2017. 10. 31
+3. Research assistant, 빔 프로젝터를 통해 투사된 영상과 사용자간의 상호작용을 인식하는 시스템 개발 2016. 01. ~ 2016. 12.
 
-4. animator, 표면개질용 125J-HZ급 레이저 개발 (3차) 2016. 06. 01 ~ 2017. 05. 31
+2. Research assistant, 자동 유닛-테스트 생성기법을 활용한 소프트웨어 성능결함 검출 2015. 11. ~ 2016. 11.
 
-3. Research assistant, 빔 프로젝터를 통해 투사된 영상과 사용자간의 상호작용을 인식하는 시스템 개발 2016. 01. 02 ~ 2016. 11. 30
-
-2. Research assistant, 자동 유닛-테스트 생성기법을 활용한 소프트웨어 성능결함 검출 2015. 11. 01 ~ 2016. 10. 31
-
-1. animator 표면개질용 125J-HZ급 레이저 개발 (2차), 2015. 06. 01 ~ 2016. 05. 31
+1. animator 표면개질용 125J-HZ급 레이저 개발 (2차), 2015. 06. ~ 2017. 06.
 
 ### Skills
 
 |:------------:|:------------|
-|Language | C++, C, MATLAB, linux|
-|LIBRARY | OpenCV, OpenGL, VLfeat|
-|TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
+|Programming Language | C++, C, Python, MATLAB, linux|
+|OpenSource LIBRARY | OpenCV, OpenGL, VLfeat|
+|Technical TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
+|Experiments | Kinect, Nuke, Zbrush, Syntheyes, UVlayout|
 
 ### Activities
 
