@@ -76,6 +76,10 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Teaching Experiences
 
+
+
+7. instructor, CG modeling and texturing, Gift Sharing, HanDong Education Development Institute(2016. 01, 2017. 01)
+
 1. Teaching assistant, AR Camp, CS, HGU, 2017. 07. ~ 2017. 07.
 
 1. Teaching assistant, OpenCV Camp, CS, HGU, 2017. 01. ~ 2017. 01.
@@ -95,9 +99,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Activities
 
-8. Research assistant of CGVLAB(Computer Vision and Graphics Laboratory) (2015. 09~ Present)
-
-7. instructor, CG modeling and texturing, Gift Sharing, HanDong Education Development Institute(2016. 01, 2017. 01)
+8. Research assistant for CGVLAB(Computer Vision and Graphics Laboratory) (2015. 09~ Present)
 
 6. president of Handong VR group for generating own college virtual world(2015. 03~ 2016. 12)
 
