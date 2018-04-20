@@ -31,7 +31,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Education and Employments
 
-*  Jan 2017 - Present       B.S & M.S in Dept. of Information Technology, HGU 
+*  Jan 2017 - Present       B.S & M.S joint course in Dept. of Information Technology, HGU 
 
 *  Mar 2012 - Aug 2017      B.S in Computer Science and Engineering, HGU
 
