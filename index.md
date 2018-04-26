@@ -109,6 +109,8 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 3. talent competition 3rd prize(2015. 05, dance) and 2nd prize(2016.05, dance as leader) on handong festival 
 
+3. choreographer of musical team and instructor of worship dance team on Bupyeong Methodist Church(2014. 03. ~ 2014. 12) 
+
 2. certification of 3D animiation & Visual Effect Course, SF Film School(school of VFX) (2014. 03 ~ 2014. 12)
 
 1. learned product design by minor(2013.03~ 2014.02)
