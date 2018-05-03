@@ -70,6 +70,8 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 3. Research assistant, 빔 프로젝터를 통해 투사된 영상과 사용자간의 상호작용을 인식하는 시스템 개발 2016. 01. ~ 2016. 12.
 
+2. Developer, 사파리고 증강현실 어플리케이션 개발 2016. 09. ~ 2016. 11.
+
 2. Research assistant, 자동 유닛-테스트 생성기법을 활용한 소프트웨어 성능결함 검출 2015. 11. ~ 2016. 11.
 
 1. animator 표면개질용 125J-HZ급 레이저 개발 (2차), 2015. 06. ~ 2017. 06.
