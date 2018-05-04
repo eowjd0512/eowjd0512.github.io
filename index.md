@@ -37,9 +37,11 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Publications
 
-5. **Sang Jun Lee**, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
+6. **Sang Jun Lee**, Sung Soo Hwang, 'FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES', ICIP(International Conference on Image Processing), IEEE, 2018. 
+
+5. **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018
  
-4. **Sang Jun Lee**, Soo Bin Kim and Sung Soo Hwang, 2017, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235.
+4. **Sang Jun Lee**, Soo Bin Kim and Sung Soo Hwang, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235, 2017.
 
 3. **Sang Jun Lee**, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
