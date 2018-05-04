@@ -37,7 +37,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Publications
 
-6. **Sang Jun Lee**, Sung Soo Hwang, 'FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES', ICIP(International Conference on Image Processing), IEEE, 2018. 
+6. **Sang Jun Lee**, Sung Soo Hwang, 'FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES', IEEE, International Conference on Image Processing, 2018. 
 
 5. **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018
  
