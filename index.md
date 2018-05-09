@@ -66,7 +66,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 6. Research assistant, Vadas 2018. 01. ~ 2018. 09.
 
-5. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구(2차) 2016. 11. ~ 2018. 09.
+5. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구 2016. 11. ~ 2018. 09.
 
 4. Research assistant, 스마트 웨어러블 디바이스 및 감성 서비스 어플리케이션 개발 2016. 01. ~ 2018. 02.
 
@@ -76,7 +76,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 2. Research assistant, 자동 유닛-테스트 생성기법을 활용한 소프트웨어 성능결함 검출 2015. 11. ~ 2016. 11.
 
-1. animator 표면개질용 125J-HZ급 레이저 개발 (2차), 2015. 06. ~ 2017. 06.
+1. animator 표면개질용 125J-HZ급 레이저 개발 2015. 06. ~ 2017. 06.
 
 ### Teaching Experiences
 
