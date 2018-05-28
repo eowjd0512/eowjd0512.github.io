@@ -45,6 +45,8 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 3. **Sang Jun Lee**, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
 
+3. 서버/클라이언트를 통신을 통한 영상 인식 기반 위치인식 시스템
+
 2. Subin Kim, Dero Bae, **SangJun Lee**, Dabin Sin and Seoungsu hwang, 2017, "A Study on Providing Resource-efficient Information Interface Utilizing Augmented Reality," 한국HCI학회 학술대회, , pp. 657~660.
 
 1. Davin Baik, Seongjin Lee, Sangyeon Choi, **SangJun Lee** and Sungsoo Hwang, 2018, "Interactive Mobile Augmented Reality System Using Muscle Sensor," 한국HCI학회 학술대회, , pp. 753~756.
