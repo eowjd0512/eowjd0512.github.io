@@ -86,6 +86,8 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 7. instructor, CG modeling and texturing, Gift Sharing, HanDong Education Development Institute(2016. 01, 2017. 01)
 
+1. Teaching assistant, 제4차 서울IoT워크숍 opencv, 서울산업진흥원, 서울IoT센터, 2018. 07. ~ 2018. 07.
+
 1. Teaching assistant, AR Camp, CS, HGU, 2017. 07. ~ 2017. 07.
 
 1. Teaching assistant, OpenCV Camp, CS, HGU, 2017. 01. ~ 2017. 01.
