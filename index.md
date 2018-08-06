@@ -103,7 +103,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 |:------------:|:------------|
 |Programming Language | C++, C, Python, MATLAB, linux|
-|OpenSource LIBRARY | OpenCV, OpenGL, VLfeat|
+|OpenSource LIBRARY | OpenCV, OpenGL, VLfeat, PCL|
 |Technical TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
 |Experiments | Kinect, Nuke, Zbrush, Syntheyes, UVlayout|
 
