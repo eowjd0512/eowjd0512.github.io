@@ -66,6 +66,8 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Research Experiences
 
+7. Research assistant, ETRI 2018. 07. ~ 2018. 011.
+
 6. Research assistant, Vadas 2018. 01. ~ 2018. 09.
 
 5. Research assistant, 빠른 위치 인식 및 정밀한 지형 복원을 위한 다중 정밀도 3차원 영상 지도 생성 기법에 대한 연구 2016. 11. ~ 2018. 09.
