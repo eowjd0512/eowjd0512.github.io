@@ -66,7 +66,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Research Experiences
 
-7. Research assistant, ETRI 2018. 07. ~ 2018. 011.
+7. Research assistant, 3DoF+ 360도 비디오 부호화 포맷 변환을 통한 부호화 성능 개선 연구, ETRI 2018. 07. ~ 2018. 011.
 
 6. Research assistant, Vadas 2018. 01. ~ 2018. 09.
 
