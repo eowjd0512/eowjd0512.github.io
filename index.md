@@ -27,7 +27,7 @@ Pohang, Kyongbuk, South Korea (37554)
 {: style="text-align: right"}
 
 ### Research interests
-Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Machine Learning, HCI, VR, AR
+Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomous Driving Car, Robotics
 
 ### Education and Employments
 
@@ -62,7 +62,7 @@ Visual SLAM, Optimization, Computer Vision, Computer Graphics, Deep Learning, Ma
 
 ### Patents
 
-큐브 증강현실 (pending)
+다양한 패턴에 따라 물체를 증강시키는 큐브 증강현실 장치
 
 ### Research Experiences
 
