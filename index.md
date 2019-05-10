@@ -64,7 +64,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Patents
 
-다양한 패턴에 따라 물체를 증강시키는 큐브 증강현실 장치
+**Sang Jun Lee**, Su Bin Kim, Sung Soo Hwang, "루빅스 큐브를 이용한 증강현실 제공 방법", Korea, KR101900797B1.
 
 ### Research Experiences
 
