@@ -13,13 +13,13 @@
 
 ----------------------------
 
-Bechelor's & Master's joint Course
+Master Course
 {: style="text-align: left"}
 Dept. of Information Technology
 {: style="text-align: left"}
 Handong Global University
 {: style="text-align: left"}
-21731006@handong.edu | +82-10-9551-5598
+eowjd4@naver.com | +82-10-9551-5598
 {: style="text-align: right"}
 317(b) OH, 558 Handong-ro, Buk-gu,
 {: style="text-align: right"}
