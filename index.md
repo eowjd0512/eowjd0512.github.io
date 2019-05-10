@@ -96,6 +96,8 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 1. Teaching assistant, OpenCV Camp, CS, HGU, 2017. 01. ~ 2017. 01.
 
+1. Teaching assistant, Multimedia Image Processing, CS, HGU, 2018. 09. ~ 2018. 12.
+
 1. Teaching assistant, Multimedia Image Processing, CS, HGU, 2017. 09. ~ 2017. 12.
 
 1. Teaching assistant, Multimedia Image Processing, CS, HGU, 2016. 09. ~ 2016. 12.
@@ -105,9 +107,9 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 |:------------:|:------------|
 |Programming Language | C++, C, Python, MATLAB, linux|
-|OpenSource LIBRARY | OpenCV, OpenGL, VLfeat, PCL|
+|OpenSource LIBRARY | OpenCV, OpenGL|
 |Technical TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
-|Experiments | Kinect, Nuke, Zbrush, Syntheyes, UVlayout|
+|Experiments | Kinect, Nuke, Zbrush|
 
 ### Activities
 
