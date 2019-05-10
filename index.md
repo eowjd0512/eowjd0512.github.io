@@ -31,7 +31,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Education and Employments
 
-*  Jan 2017 - Present       B.S & M.S joint course in Dept. of Information Technology, HGU 
+*  Aug 2017 - Present       M.S in Dept. of Information Technology, HGU 
 
 *  Mar 2012 - Aug 2017      B.S in Computer Science and Engineering, HGU
 
