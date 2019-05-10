@@ -2,7 +2,7 @@
 {: style="text-align: center"}
 
 {: refdef: style="text-align: center;"}
-![Image](profile.jpg){: width="150px" height="150px"}
+![Image](profile.jpg){: width="144px" height="192px"}
 {: refdef}
 
 <center>Why not change the world?</center>
