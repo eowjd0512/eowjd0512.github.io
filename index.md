@@ -37,13 +37,29 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Publications
 
-6. **Sang Jun Lee**, Sung Soo Hwang, 'FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES', IEEE, International Conference on Image Processing, 2018. 
+## International Journal
 
-5. **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
+
+
+7. **SCIE** **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
+
+## International Conference
+
+6. **Sang Jun Lee**, Sung Soo Hwang, "FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES", IEEE, International Conference on Image Processing, 2018. 
+
+## Domestic Journal
+
+4. **KCI** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235, 2017.
+
+## Domestic Conference
+
+5. **Best paper award** **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
  
-4. **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235, 2017.
+3. **Best paper award** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981, 2017.
 
-3. **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981, 2017.
+3. 한현민, 강세희, 김빛나, 이민회, **이상준**, 문지원, 김휘용, 방건, 황성수, "Multi-view consistency와 시점 별 우선 순위 부여를 통한 정제된 포인트 클라우드 생성 기법", 대한전자공학회, 2019.
+
+3. 조영곤, 이보배, 김현준, **이상준**, 황성수 "단안카메라를 활용한 종이피아노 시스템", 대한전자공학회, 2019.
 
 3. Jae Won Kam, Han Sol Kim, **Sang Jun Lee**, Sung Soo Hwang, "다수 Monocular SLAM 영상 지도에 대한 융합 기법", IPIU, 2019.
 
@@ -53,12 +69,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 2. Su bin Kim, Dero Bae, **Sang Jun Lee**, Dabin Sin and Sung Soo hwang, "A Study on Providing Resource-efficient Information Interface Utilizing Augmented Reality," 한국HCI학회 학술대회, , pp. 657~660, 2017.
 
-### Awards and Scholarships
-
-3. **Best paper award**, 2018 - **Sang-Jun Lee**, Sung Soo Hwang, 2018, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU
-
-
-2. **Best paper award**, 2017 - **Sang-Jun Lee**, Su-Bin Kim and Sung-Soo Hwang, 2017, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981.
+### Awards
 
 1. Start-up competition **1st prize**(2015. 10) - Ji Woong Song, and **Sang Jun Lee**, "영상처리를 이용한 빠른 옷 검색 서비스", Handong Global University. 
 
