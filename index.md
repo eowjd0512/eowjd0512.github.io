@@ -39,7 +39,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 #### International Journal
 
-#####SCIE
+##### SCIE
 
 7.  **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
 
@@ -49,7 +49,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 #### Domestic Journal
 
-#####KCI
+##### KCI
 
 4.  **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235, 2017.
 
