@@ -37,21 +37,23 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Publications
 
-## International Journal
+#### International Journal
 
+**SCIE**
 
+7.  **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
 
-7. **SCIE** **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
-
-## International Conference
+#### International Conference
 
 6. **Sang Jun Lee**, Sung Soo Hwang, "FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES", IEEE, International Conference on Image Processing, 2018. 
 
-## Domestic Journal
+#### Domestic Journal
 
-4. **KCI** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235, 2017.
+**KCI**
 
-## Domestic Conference
+4.  **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Multi 3D Objects Augmentation System Using Rubik’s Cube," Journal of Korea Multimedia Society, Vol. 20, No. 8, pp. 1224~1235, 2017.
+
+#### Domestic Conference
 
 5. **Best paper award** **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
  
