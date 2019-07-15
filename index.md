@@ -39,9 +39,11 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 #### International Journal
 
-##### SCIE
+##### SCI SCIE
 
 7.  **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
+
+5. Jin Kyu Lee, Myunk Cheol Kim, **Sang Jun Lee**, Sung Soo Hwang, "Real-Time Downward View Generation of a Vehicle Using Around View Monitor system", IEEE Transactions on Intelligent Transportation Systems, 2019.
 
 #### International Conference
 
