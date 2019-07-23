@@ -41,11 +41,15 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ##### SCI SCIE
 
+3. **Sang Jun Lee**, Hee-youl Choi, Sung Soo Hwang, "Real-time Depth Estimation using Recurrent CNN with Sparse Depth Cues for SLAM System", International Journal of Car, Autonomous, and System, 2019. 
+
 7.  **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
 
 5. Jin Kyu Lee, Myunk Cheol Kim, **Sang Jun Lee**, Sung Soo Hwang, "Real-Time Downward View Generation of a Vehicle Using Around View Monitor system", IEEE Transactions on Intelligent Transportation Systems, 2019.
 
 #### International Conference
+
+3. **Sang Jun Lee**, Sung Soo Hwang, "elaborate monocular point-line slam with robust initialization", IEEE, International Conference on Computer Vision, 2019.
 
 6. **Sang Jun Lee**, Sung Soo Hwang, "FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES", IEEE, International Conference on Image Processing, 2018. 
 
