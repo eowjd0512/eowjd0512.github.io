@@ -31,7 +31,9 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Education and Employments
 
-*  Aug 2017 - Present       M.S in Dept. of Information Technology, HGU 
+*  Aug 2019 - present       Internship, NAVERLABS
+
+*  Aug 2017 - July 2019     M.S in Dept. of Information Technology, HGU 
 
 *  Mar 2012 - Aug 2017      B.S in Computer Science and Engineering, HGU
 
