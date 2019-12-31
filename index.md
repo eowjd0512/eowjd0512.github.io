@@ -43,6 +43,8 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ##### SCI SCIE
 
+4. [pending] **Sang Jun Lee**, Sung Soo Hwang, "Fast and Accurate Self-calibration using Vanishiing Point Detection in Manmade Environments", International Journal of Car, Autonomous, and System, 2019. 
+
 3. **Sang Jun Lee**, Hee-youl Choi, Sung Soo Hwang, "Real-time Depth Estimation using Recurrent CNN with Sparse Depth Cues for SLAM System", International Journal of Car, Autonomous, and System, 2019. 
 
 7.  **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
@@ -50,6 +52,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 5. Jin Kyu Lee, Myunk Cheol Kim, **Sang Jun Lee**, Sung Soo Hwang, "Real-Time Downward View Generation of a Vehicle Using Around View Monitor system", IEEE Transactions on Intelligent Transportation Systems, 2019.
 
 #### International Conference
+4. [pending] **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Map Alignment for Continuous Visual Localization for a Monocular Camera", CVPR.
 
 3. **Sang Jun Lee**, Sung Soo Hwang, "elaborate monocular point-line slam with robust initialization", IEEE, International Conference on Computer Vision, 2019.
 
@@ -63,9 +66,9 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 #### Domestic Conference
 
-5. **Best paper award** **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
+5. **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
  
-3. **Best paper award** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981, 2017.
+3. **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981, 2017.
 
 3. 한현민, 강세희, 김빛나, 이민회, **이상준**, 문지원, 김휘용, 방건, 황성수, "Multi-view consistency와 시점 별 우선 순위 부여를 통한 정제된 포인트 클라우드 생성 기법", 대한전자공학회, 2019.
 
@@ -83,9 +86,20 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 1. Start-up competition **1st prize**(2015. 10) - Ji Woong Song, and **Sang Jun Lee**, "영상처리를 이용한 빠른 옷 검색 서비스", Handong Global University. 
 
+2. **Best paper award** **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
+
+3. **Best paper award** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981, 2017.
+
+
 ### Patents
 
-**Sang Jun Lee**, Su Bin Kim, Sung Soo Hwang, "루빅스 큐브를 이용한 증강현실 제공 방법", Korea, KR101900797B1.
+1. [등록] **이상준**, 김수빈, 황성수, "루빅스 큐브를 이용한 증강현실 제공 방법", Korea, KR101900797B1.
+
+2. [출원] 감제원, 김한솔, 문지원, **이상준**, 황성수, 증강현실 게임북을 이용한 멀티유저 증강현실 컨텐츠 제공 시스템 및 방법,2018-0130755호
+
+3. [출원] 감제원, 김한솔, 문지원, **이상준**, 황성수, SLAM 공간 지도의 완성도 판단 방법, 2018-0130754호
+
+4. [출원] 감제원, 김한솔, 문지원, **이상준**, 황성수, 멀티마커 기반의 증강현실 시스템의 카메라 자세 추정, 2018-0130753호
 
 ### Research Experiences
 
