@@ -15,15 +15,9 @@
 
 Master degree of computer science in Handong Global University
 {: style="text-align: left"}
-Intern
-{: style="text-align: left"}
-NAVERLABS
+currently Internship in NAVERLABS
 {: style="text-align: left"}
 eowjd4@naver.com | +82-10-9551-5598
-{: style="text-align: right"}
-317(b) OH, 558 Handong-ro, Buk-gu,
-{: style="text-align: right"}
-Pohang, Kyongbuk, South Korea (37554)
 {: style="text-align: right"}
 
 ### Research interests
@@ -142,7 +136,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 |:------------:|:------------|
 |Programming Language | C++, C, Python, MATLAB, linux|
-|OpenSource LIBRARY | OpenCV, OpenGL|
+|OpenSource LIBRARY | OpenCV, OpenGL, Eigen, Vlfeat, PCL, g2o ... |
 |Technical TOOLS | Maya, Photoshop, Illustrator, After Effect, Unity3D|
 |Experiments | Kinect, Nuke, Zbrush|
 
