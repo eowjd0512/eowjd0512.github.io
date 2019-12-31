@@ -13,9 +13,7 @@
 
 ----------------------------
 
-Master degree of computer science in Handong Global University
-{: style="text-align: left"}
-currently Internship in NAVERLABS
+Intern in NAVERLABS
 {: style="text-align: left"}
 eowjd4@naver.com | +82-10-9551-5598
 {: style="text-align: right"}
