@@ -35,7 +35,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ##### SCI SCIE
 
-4. [pending] **Sang Jun Lee**, Sung Soo Hwang, "Fast and Accurate Self-calibration using Vanishiing Point Detection in Manmade Environments", International Journal of Car, Autonomous, and System, 2019. 
+4. **Sang Jun Lee**, Sung Soo Hwang, "Fast and Accurate Self-calibration using Vanishiing Point Detection in Manmade Environments", International Journal of Car, Autonomous, and System, 2019. 
 
 3. **Sang Jun Lee**, Hee-youl Choi, Sung Soo Hwang, "Real-time Depth Estimation using Recurrent CNN with Sparse Depth Cues for SLAM System", International Journal of Car, Autonomous, and System, 2019. 
 
