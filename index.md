@@ -13,7 +13,7 @@
 
 ----------------------------
 
-Intern in NAVERLABS
+TEELABS , SLAM developer & manager
 {: style="text-align: left"}
 eowjd4@naver.com | +82-10-9551-5598
 {: style="text-align: right"}
@@ -23,7 +23,9 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Education and Employments
 
-*  Aug 2019 - present       Internship, NAVERLABS
+*  Mar 2020 - prenset       SLAM developer & manager, TEELABS
+
+*  Aug 2019 - Feb 2020      Internship, NAVERLABS
 
 *  Aug 2017 - July 2019     M.S in Dept. of Information Technology, HGU 
 
