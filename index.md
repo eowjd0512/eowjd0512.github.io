@@ -23,7 +23,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Education and Employments
 
-*  Mar 2020 - prenset       SLAM developer & manager, TEELABS
+*  Mar 2020 - present       SLAM developer & manager, TEELABS
 
 *  Aug 2019 - Feb 2020      Internship, NAVERLABS
 
