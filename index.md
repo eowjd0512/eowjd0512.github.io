@@ -122,9 +122,9 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Teaching Experiences
 
+8. Instructor, Deep learning in SLAM, AI group, Deepest, Seoul National University (2020, 05, 16)
 
-
-7. instructor, CG modeling and texturing, Gift Sharing, HanDong Education Development Institute(2016. 01, 2017. 01)
+7. Instructor, CG modeling and texturing, Gift Sharing, HanDong Education Development Institute(2016. 01, 2017. 01)
 
 1. Teaching assistant, 제4차 서울IoT워크숍 opencv, 서울산업진흥원, 서울IoT센터, 2018. 07. ~ 2018. 07.
 
