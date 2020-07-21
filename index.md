@@ -38,13 +38,16 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 ##### SCI SCIE
 
 4. **Sang Jun Lee**, Sung Soo Hwang, "Fast and Accurate Self-calibration using Vanishiing Point Detection in Manmade Environments", International Journal of Car, Autonomous, and System, 2019. 
-<a href="[2019 IJCAS] Fast and Accurate Self-calibration using Vanishing Point Detection in Manmade Environments.pdf" target="_blank">PDF.</a>
+<a href="[2019 IJCAS] Fast and Accurate Self-calibration using Vanishing Point Detection in Manmade Environments.pdf" target="_blank">PDF</a>
 
 3. **Sang Jun Lee**, Hee-youl Choi, Sung Soo Hwang, "Real-time Depth Estimation using Recurrent CNN with Sparse Depth Cues for SLAM System", International Journal of Car, Autonomous, and System, 2019. 
+<a href="[2019 IJCAS] Real-time Depth Estimation using Recurrent CNN with Sparse Depth Cues for SLAM System.pdf" target="_blank">PDF</a>
 
 7.  **Sang Jun Lee**, Sung Soo Hwang, "Bag of Sampled Words: A Sampling-based Strategy for Fast and Accurate Visual Place Recognition in Changing Environments", International Journal of Car, Autonomous, and System, 2019. 
+<a href="[2018 IJCAS] Bag of Sampled Words A Fast and Robust Model for Challenging Visual Place Recognition.pdf" target="_blank">PDF</a>
 
 5. Jin Kyu Lee, Myunk Cheol Kim, **Sang Jun Lee**, Sung Soo Hwang, "Real-Time Downward View Generation of a Vehicle Using Around View Monitor system", IEEE Transactions on Intelligent Transportation Systems, 2019.
+<a href="[2018 IEEE TITS]Real-Time Downward View Generation of a Vehicle Using Around View Monitor system.pdf" target="_blank">PDF</a>
 
 #### International Conference
 
@@ -53,8 +56,10 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 4. [pending] **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Map Alignment for Continuous Visual Localization for a Monocular Camera".
 
 3. **Sang Jun Lee**, Sung Soo Hwang, "elaborate monocular point-line slam with robust initialization", IEEE, International Conference on Computer Vision, 2019.
+<a href="[2019 ICCV] elaborate monocular point-line slam with robust initialization.pdf" target="_blank">PDF</a>
 
-6. **Sang Jun Lee**, Sung Soo Hwang, "FAST AND ROBUST VANISHING POINT DETECTION ON UN-CALIBRATED IMAGES", IEEE, International Conference on Image Processing, 2018. 
+6. **Sang Jun Lee**, Sung Soo Hwang, "Fast and Robust Vanishing Point Detection On Un-calibrated Images", IEEE, International Conference on Image Processing, 2018. 
+<a href="[2018 ICIP] fast and robust vanishing point detection on un-calibrated images.pdf" target="_blank">PDF</a>
 
 #### Domestic Journal
 
@@ -90,7 +95,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 2. **Best paper award** **Sang Jun Lee**, Sung Soo Hwang, "아웃라이어에 강인한 가우시안 매핑 기반 선분 병합 방법", IPIU, 2018.
 
-3. **Best paper award** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집, , pp. 1979~1981, 2017.
+3. **Best paper award** **Sang Jun Lee**, Su Bin Kim and Sung Soo Hwang, "A Reliable Line Detection Algorithm Using Clustering and Strongly Connected Graph," 한국정보과학회 학술발표논문집 , pp. 1979~1981, 2017.
 
 
 ### Patents
