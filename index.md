@@ -106,7 +106,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 3. [등록] 감제원, 김한솔, 문지원, **이상준**, 황성수, SLAM 공간 지도의 완성도 판단 방법, Korea, KR102084756B1.
 
-4. [출원] 감제원, 김한솔, 문지원, **이상준**, 황성수, 멀티마커 기반의 증강현실 시스템의 카메라 자세 추정, 2018-0130753호
+4. [등록] 감제원, 김한솔, 문지원, **이상준**, 황성수, 멀티마커 기반의 증강현실 시스템의 카메라 자세 추정, Korea, KR102090533B1.
 
 ### Research Experiences
 
