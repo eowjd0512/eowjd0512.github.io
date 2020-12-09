@@ -53,7 +53,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ##### IEEE 
 
-4. [pending] **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Map Alignment for Continuous Visual Localization for a Monocular Camera".
+4. **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Visual Localization for a Monocular Camera", IEEE, WACV, 2020.
 
 3. **Sang Jun Lee**, Sung Soo Hwang, "elaborate monocular point-line slam with robust initialization", IEEE, International Conference on Computer Vision, 2019.
 <a href="[2019 ICCV] elaborate monocular point-line slam with robust initialization.pdf" target="_blank">PDF</a>
@@ -102,9 +102,9 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 1. [등록] **이상준**, 김수빈, 황성수, "루빅스 큐브를 이용한 증강현실 제공 방법", Korea, KR101900797B1.
 
-2. [등록] 감제원, 김한솔, 문지원, **이상준**, 황성수, 증강현실 게임북을 이용한 멀티유저 증강현실 컨텐츠 제공 시스템 및 방법,2018-0130755호
+2. [등록] 감제원, 김한솔, 문지원, **이상준**, 황성수, 증강현실 게임북을 이용한 멀티유저 증강현실 컨텐츠 제공 시스템 및 방법,Korea, KR102099852B1.
 
-3. [출원] 감제원, 김한솔, 문지원, **이상준**, 황성수, SLAM 공간 지도의 완성도 판단 방법, 2018-0130754호
+3. [등록] 감제원, 김한솔, 문지원, **이상준**, 황성수, SLAM 공간 지도의 완성도 판단 방법, Korea, KR102084756B1.
 
 4. [출원] 감제원, 김한솔, 문지원, **이상준**, 황성수, 멀티마커 기반의 증강현실 시스템의 카메라 자세 추정, 2018-0130753호
 
