@@ -49,12 +49,6 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 5. Jin Kyu Lee, Myunk Cheol Kim, **Sang Jun Lee**, Sung Soo Hwang, "Real-Time Downward View Generation of a Vehicle Using Around View Monitor system", IEEE Transactions on Intelligent Transportation Systems, 2019.
 <a href="[2018 IEEE TITS]Real-Time Downward View Generation of a Vehicle Using Around View Monitor system.pdf" target="_blank">PDF</a>
 
-##### Thesis
-
-#### Master thesis
-
-1. **Sang Jun Lee**, "All Aboust Visual SLAM", Handong Global University, 2019.
-
 #### International Conference
 
 ##### IEEE 
@@ -94,6 +88,12 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 1. Davin Baik, Seongjin Lee, Sangyeon Choi, **Sang Jun Lee** and Sung Soo Hwang, "Interactive Mobile Augmented Reality System Using Muscle Sensor," 한국HCI학회 학술대회, , pp. 753~756, 2018.
 
 2. Su bin Kim, Dero Bae, **Sang Jun Lee**, Dabin Sin and Sung Soo hwang, "A Study on Providing Resource-efficient Information Interface Utilizing Augmented Reality," 한국HCI학회 학술대회, , pp. 657~660, 2017.
+
+
+#### Master thesis
+
+1. **Sang Jun Lee**, "All Aboust Visual SLAM", Handong Global University, 2019.
+
 
 ### Awards
 
