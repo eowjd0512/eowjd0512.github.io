@@ -49,6 +49,12 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 5. Jin Kyu Lee, Myunk Cheol Kim, **Sang Jun Lee**, Sung Soo Hwang, "Real-Time Downward View Generation of a Vehicle Using Around View Monitor system", IEEE Transactions on Intelligent Transportation Systems, 2019.
 <a href="[2018 IEEE TITS]Real-Time Downward View Generation of a Vehicle Using Around View Monitor system.pdf" target="_blank">PDF</a>
 
+##### Thesis
+
+#### Master thesis
+
+1. **Sang Jun Lee**, "All Aboust Visual SLAM", Handong Global University, 2019.
+
 #### International Conference
 
 ##### IEEE 
@@ -155,7 +161,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ### Activities
 
-8. Research assistant for CGVLAB(Computer Vision and Graphics Laboratory) (2015. 09~ Present)
+8. Research assistant for CGVLAB(Computer Vision and Graphics Laboratory) (2015. 09~ 2019.07)
 
 6. president of Handong VR group for generating own college virtual world(2015. 03~ 2016. 12)
 
