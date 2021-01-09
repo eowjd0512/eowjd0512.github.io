@@ -15,7 +15,7 @@
 
 TEELABS , SLAM developer & manager
 {: style="text-align: left"}
-eowjd4@naver.com | +82-10-9551-5598
+eowjd4@naver.com
 {: style="text-align: right"}
 
 ### Research interests
