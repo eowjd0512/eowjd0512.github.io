@@ -25,7 +25,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 *  Mar 2020 - present       SLAM developer & manager, TEELABS
 
-*  Aug 2019 - Feb 2020      Internship, NAVERLABS
+*  Aug 2019 - Feb 2020      Internship, Visual Localization team, Robotics, NAVERLABS
 
 *  Aug 2017 - July 2019     M.S in Dept. of Information Technology, HGU 
 
@@ -53,7 +53,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 ##### IEEE 
 
-4. **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Visual Localization for a Monocular Camera", IEEE, WACV, 2020.
+4. **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Visual Localization for a Monocular Camera", IEEE, WACV, 2021.
 
 3. **Sang Jun Lee**, Sung Soo Hwang, "elaborate monocular point-line slam with robust initialization", IEEE, International Conference on Computer Vision, 2019.
 <a href="[2019 ICCV] elaborate monocular point-line slam with robust initialization.pdf" target="_blank">PDF</a>
