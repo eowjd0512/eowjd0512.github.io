@@ -57,7 +57,7 @@ Visual SLAM, Optimization, CV, CG, Deep Learning, Machine Learning, AR, Autonomo
 
 4. **Sang Jun Lee**, Deokhwa Kim, Sung Soo Hwang, Donghwan Lee, "Local to Global: Efficient Visual Localization for a Monocular Camera", IEEE, WACV, 2021.
 <a href="Lee_Local_to_Global_Efficient_Visual_Localization_for_a_Monocular_Camera_WACV_2021_paper.pdf" target="_blank">PDF</a>
-<a href="local-to-global supp.pdf" target="_blank">PDF</a>
+, supp. <a href="local-to-global supp.pdf" target="_blank">PDF</a>
 
 3. **Sang Jun Lee**, Sung Soo Hwang, "elaborate monocular point-line slam with robust initialization", IEEE, International Conference on Computer Vision, 2019.
 <a href="[2019 ICCV] elaborate monocular point-line slam with robust initialization.pdf" target="_blank">PDF</a>
