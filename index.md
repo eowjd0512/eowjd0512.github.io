@@ -17,7 +17,7 @@ SLAM algorithm engineer, Visual Positioning Team, Parking Group, StradVision
 {: style="text-align: left"}
 eowjd4@naver.com
 {: style="text-align: right"}
-https://www.linkedin.com/in/eowjd0512/
+[https://www.linkedin.com/in/eowjd0512/](https://www.linkedin.com/in/eowjd0512/)
 {: style="text-align: right"}
 
 ### Research interests
